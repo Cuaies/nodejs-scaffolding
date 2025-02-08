@@ -3,3 +3,6 @@ enhancement:
 
 bug:
   - head-branch: ["^fix", "fix"]
+
+documentation:
+  - head-branch: ["^docs", "docs"]
