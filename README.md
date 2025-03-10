@@ -33,7 +33,13 @@ Start the application by running the following command:
 $ npm run start
 ```
 
-This will execute the entry point, located at `src/main.ts`.
+To enable watch mode, use the execute the following line:
+
+```sh
+$ npm run start:dev
+```
+
+These will execute the entry point, located at `src/main.ts`.
 
 ## Customization
 
