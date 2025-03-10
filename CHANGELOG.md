@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Cuaies/nodejs-scaffolding/compare/v1.0.0...v1.1.0) (2025-03-10)
+
+
+### Features
+
+* **workflows:** specify permissions ([#14](https://github.com/Cuaies/nodejs-scaffolding/issues/14)) ([3a600e7](https://github.com/Cuaies/nodejs-scaffolding/commit/3a600e769eee92947df34dd3163f20ffc3532ca7))
+
 ## 1.0.0 (2025-02-08)
 
 
